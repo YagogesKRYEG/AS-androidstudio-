@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pós Graduação</string>
+    <string name="posgraduacao">Pós Graduação</string>
+    <string name="imgsplash">Imagem de fundo da tela do splash</string>
+    <string name="conhecimento">Conhecimento</string>
+    <string name="ritmo">No Seu Ritmo</string>
+    <string name="tituloMA">SENAC EAD.</string>
+    <string name="subtituloMA">O MAIS COMPLETO.</string>
+    <string name="introMA">Cursos de pós-graduação em instuição com nota maxima no MEC, metodologia inovadora e foco no mercado de trabalho.São mais de 300 polos proprios.A melhor opção para quem busca novos desafios e quer ter orgulho da carreira.</string>
+    <string name="SouMA">#SouSenacEAD</string>
+    <string name="posAreas">PÓS-GRADUAÇÃO NAS AREAS:</string>
+    <string name="artes">• ARTES</string>
+    <string name="comunicação">• COMUNICAÇÃO</string>
+    <string name="educacao">• EDUCAÇÃO</string>
+    <string name="gastronomia">• GASTRONOMIA</string>
+    <string name="gestao">• GESTÃO</string>
+    <string name="Mambiente">• MEIO AMBIENTE</string>
+    <string name="ProAlimetos">• PRODUÇÃO DE ALIMENTOS</string>
+    <string name="saude">• SAÚDE</string>
+    <string name="TI">• TECNOLOGIA DA INFORMAÇÃO</string>
+    <string name="MEC">Quer ficar completo para o mercado de trabalho?</string>
+    <string name="inscreva">INSCREVA-SE JÁ</string>
+    <string name="linkMA">www.ead.senac.br/pos-graduacao</string>
+    <string name="instragramEAD">senaceadoficial</string>
+    <string name="facebookEAD">/SenacEADoficial</string>
+    <string name="senac">Logo Senac</string>
+    <string name="facebookLogo">Logo facebook</string>
+    <string name="instragramLogo">Logo Instragram</string>
+</resources>
